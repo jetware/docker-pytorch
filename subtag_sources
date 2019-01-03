@@ -1,0 +1,5 @@
+pytorch
+python
+accel:mkl:cpu_mkl
+accel:cuda:gpu_cuda
+accel::cpu
