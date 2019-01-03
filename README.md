@@ -13,6 +13,6 @@ Latest versions:
 
 Versions available:
 
-* PyTorch: 1.0.0
+* PyTorch: 1.0.0, 0.4.1
 * Python: 3.6.3, 2.7.14
 
