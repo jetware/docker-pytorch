@@ -4,20 +4,18 @@ A pre-configured and fully integrated software stack with PyTorch, an open sourc
 
 The stack is built in several variations with different hardware optimization features: OpenBLAS and Intel MKL for x86 CPU, and CUDA for NVidia GPU.
 
+### Tagging policy
 
-Latest versions:
+Tag format:
 
-* PyTorch: 1.0.0
-* Python: 3.6.3
+> pytorch-notebook:*<pytorch_version>*-python*<python_version>*-*<accelerator>*-*<operating_system>*
 
 Versions available:
 
-* PyTorch: 1.0.0, 0.4.1
-* Python: 3.6.3, 2.7.14
-
-### Issues
-
-If you encountered a problem running this container, please file an [issue](https://github.com/jetware/dockerhub-pytorch/issues).
+* PyTorch versions: **1.0.0**, 0.4.1, 0.3.1
+* Python versions: **3.6.3**, 2.7.14
+* Accelerators: **cpu**, cpu_mkl, cuda9, cuda10
+* Operating systems: **alpine3.8**, ubuntu18.04, debian9, centos7
 
 ### Actual tags
 
@@ -213,6 +211,10 @@ If you encountered a problem running this container, please file an [issue](http
 * Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on CentOS 7
 * Jetware appliance: [aise/pytorch04_python27_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_production-190103?us=dockerhub)
 
+
+### Issues
+
+If you encountered a problem running this container, please file an [issue](https://github.com/jetware/dockerhub-pytorch/issues).
 
 ---
 (c) 2019 [Jetware](https://jetware.io)
