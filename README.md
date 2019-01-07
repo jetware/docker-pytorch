@@ -9,14 +9,14 @@ The stack is built in several variations with different hardware optimization fe
 Tag format:
 
 ```
-pytorch-notebook:<pytorch_version>-python<python_version>-<accelerator>-<operating_system>
+pytorch:<pytorch_version>-python<python_version>-<optimization>-<operating_system>
 ```
 
 Versions available:
 
 * PyTorch versions: **1.0.0**, 0.4.1, 0.3.1
 * Python versions: **3.6.3**, 2.7.14
-* Accelerators: **cpu**, cpu_mkl, cuda9, cuda10
+* Optimization: **cpu**, cpu_mkl, cuda9, cuda10
 * Operating systems: **alpine3.8**, ubuntu18.04, debian9, centos7
 
 ### Actual tags
