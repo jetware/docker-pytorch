@@ -8,7 +8,9 @@ The stack is built in several variations with different hardware optimization fe
 
 Tag format:
 
-> pytorch-notebook:*<pytorch_version>*-python*<python_version>*-*<accelerator>*-*<operating_system>*
+```
+pytorch-notebook:<pytorch_version>-python<python_version>-<accelerator>-<operating_system>
+```
 
 Versions available:
 
