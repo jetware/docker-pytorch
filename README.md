@@ -15,3 +15,12 @@ Versions available:
 * PyTorch: 1.0.0, 0.4.1
 * Python: 3.6.3, 2.7.14
 
+### Issues
+
+If you encountered a problem running this container, please file an [issue](https://github.com/jetware/dockerhub-pytorch/issues).
+
+### Actual tags
+
+
+---
+(c) 2019 [Jetware](https://jetware.io)
