@@ -21,6 +21,198 @@ If you encountered a problem running this container, please file an [issue](http
 
 ### Actual tags
 
+#### `latest`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu-alpine3.8`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch1_python36_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_production-190103?us=dockerhub)
+
+#### `latest-ubuntu18.04`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu-ubuntu18.04`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch1_python36_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_production-190103?us=dockerhub)
+
+#### `latest-debian9`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu-debian9`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch1_python36_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_production-190103?us=dockerhub)
+
+#### `latest-centos7`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu-centos7`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch1_python36_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_production-190103?us=dockerhub)
+
+#### `latest-cpu_mkl`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu_mkl2018.2.199-alpine3.8`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch1_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_mkl_production-190103?us=dockerhub)
+
+#### `latest-cpu_mkl-ubuntu18.04`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu_mkl2018.2.199-ubuntu18.04`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch1_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_mkl_production-190103?us=dockerhub)
+
+#### `latest-cpu_mkl-debian9`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu_mkl2018.2.199-debian9`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch1_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_mkl_production-190103?us=dockerhub)
+
+#### `latest-cpu_mkl-centos7`
+
+* Full tag alias: `1.0.0-python3.6.3-cpu_mkl2018.2.199-centos7`
+* Software: PyTorch 1.0.0, Python 3.6.3, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch1_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python36_mkl_production-190103?us=dockerhub)
+
+#### `latest-python2`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu-alpine3.8`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch1_python27_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_production-190103?us=dockerhub)
+
+#### `latest-python2-ubuntu18.04`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu-ubuntu18.04`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch1_python27_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_production-190103?us=dockerhub)
+
+#### `latest-python2-debian9`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu-debian9`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch1_python27_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_production-190103?us=dockerhub)
+
+#### `latest-python2-centos7`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu-centos7`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch1_python27_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_production-190103?us=dockerhub)
+
+#### `latest-python2-cpu_mkl`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu_mkl2018.2.199-alpine3.8`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch1_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_mkl_production-190103?us=dockerhub)
+
+#### `latest-python2-cpu_mkl-ubuntu18.04`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu_mkl2018.2.199-ubuntu18.04`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch1_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_mkl_production-190103?us=dockerhub)
+
+#### `latest-python2-cpu_mkl-debian9`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu_mkl2018.2.199-debian9`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch1_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_mkl_production-190103?us=dockerhub)
+
+#### `latest-python2-cpu_mkl-centos7`
+
+* Full tag alias: `1.0.0-python2.7.14-cpu_mkl2018.2.199-centos7`
+* Software: PyTorch 1.0.0, Python 2.7.14, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch1_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch1_python27_mkl_production-190103?us=dockerhub)
+
+#### `0-cpu_mkl`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu_mkl2018.2.199-alpine3.8`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch04_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_mkl_production-190103?us=dockerhub)
+
+#### `0-cpu_mkl-ubuntu18.04`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu_mkl2018.2.199-ubuntu18.04`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch04_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_mkl_production-190103?us=dockerhub)
+
+#### `0-cpu_mkl-debian9`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu_mkl2018.2.199-debian9`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch04_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_mkl_production-190103?us=dockerhub)
+
+#### `0-cpu_mkl-centos7`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu_mkl2018.2.199-centos7`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch04_python36_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_mkl_production-190103?us=dockerhub)
+
+#### `0-python2-cpu_mkl`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu_mkl2018.2.199-alpine3.8`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch04_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_mkl_production-190103?us=dockerhub)
+
+#### `0-python2-cpu_mkl-ubuntu18.04`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu_mkl2018.2.199-ubuntu18.04`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch04_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_mkl_production-190103?us=dockerhub)
+
+#### `0-python2-cpu_mkl-debian9`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu_mkl2018.2.199-debian9`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch04_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_mkl_production-190103?us=dockerhub)
+
+#### `0-python2-cpu_mkl-centos7`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu_mkl2018.2.199-centos7`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch04_python27_mkl_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_mkl_production-190103?us=dockerhub)
+
+#### `0`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu-alpine3.8`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch04_python36_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_production-190103?us=dockerhub)
+
+#### `0-ubuntu18.04`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu-ubuntu18.04`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch04_python36_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_production-190103?us=dockerhub)
+
+#### `0-debian9`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu-debian9`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch04_python36_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_production-190103?us=dockerhub)
+
+#### `0-centos7`
+
+* Full tag alias: `0.4.1-python3.6.3-cpu-centos7`
+* Software: PyTorch 0.4.1, Python 3.6.3, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch04_python36_production-190103](https://jetware.io/appliances/aise/pytorch04_python36_production-190103?us=dockerhub)
+
+#### `0-python2`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu-alpine3.8`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on Alpine 3.8
+* Jetware appliance: [aise/pytorch04_python27_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_production-190103?us=dockerhub)
+
+#### `0-python2-ubuntu18.04`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu-ubuntu18.04`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on Ubuntu 18.04 LTS
+* Jetware appliance: [aise/pytorch04_python27_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_production-190103?us=dockerhub)
+
+#### `0-python2-debian9`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu-debian9`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on Debian 9
+* Jetware appliance: [aise/pytorch04_python27_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_production-190103?us=dockerhub)
+
+#### `0-python2-centos7`
+
+* Full tag alias: `0.4.1-python2.7.14-cpu-centos7`
+* Software: PyTorch 0.4.1, Python 2.7.14, Development preset 1 on CentOS 7
+* Jetware appliance: [aise/pytorch04_python27_production-190103](https://jetware.io/appliances/aise/pytorch04_python27_production-190103?us=dockerhub)
+
 
 ---
 (c) 2019 [Jetware](https://jetware.io)
